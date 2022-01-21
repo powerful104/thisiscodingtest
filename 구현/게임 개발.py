@@ -34,3 +34,7 @@ while True:
         if map_info[na][nb] == 1:
             break
 print(count)
+
+"""
+수정필요
+"""
